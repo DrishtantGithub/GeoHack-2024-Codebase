@@ -50,7 +50,7 @@ The dataset used in the contest includes:
 ## Additional Information
 
 - The dataset provides comprehensive meteorological and solar energy data suitable for predictive modeling.
-- For more details on file formats and reading methods, refer to the provided links and resources in the dataset description.
+- For more details on file formats and reading methods, refer to the provided link at the end of the page.
 - Ensure to use elevations from **gefs_elevations.nc** for any elevation-based interpolation or modeling tasks.
 - In our project to maintain the simplicity we have not used the gefs_elevation.nc data
   
